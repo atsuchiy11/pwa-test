@@ -2,6 +2,7 @@
   "name": "pwa-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://atsuchiy11.github.io/pwa-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -10,6 +11,7 @@
     "@types/node": "^17.0.45",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
